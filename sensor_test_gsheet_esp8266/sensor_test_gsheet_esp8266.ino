@@ -3,7 +3,7 @@
  * Based on article at http://embedded-lab.com/blog/post-data-google-sheets-using-esp8266/
  * 
  * Dependencies:
- *    - HTTPSRedirect library from http://embedded-lab.com/blog/post-data-google-sheets-using-esp8266/
+ *    - HTTPSRedirect library from https://github.com/electronicsguy/ESP8266/tree/master/HTTPSRedirect
  *    - DHT library (if you're using DHTxx temperature sensor)
  *    - ESP8266 library
  *  
